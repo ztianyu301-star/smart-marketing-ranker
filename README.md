@@ -28,7 +28,6 @@ ant_intelligent_ranking/
 ├─ main.py
 ├─ README.md
 ├─ requirements.txt
-├─ resume_bullets.md
 ├─ src/
 │  └─ smart_ranker/
 │     ├─ baselines.py
@@ -81,7 +80,3 @@ python main.py serve --artifact-dir artifacts --host 127.0.0.1 --port 8000
 - **至少掌握一套主流训练框架**：使用 PyTorch 完成特征编码、训练和推理
 - **独立编码建模能力**：从数据构造、特征工程、训练到服务化全部可运行
 - **数据敏感、量化建模能力**：包含多维度用户/商品/上下文特征与离线评估
-
-## 建议怎么写进简历
-
-`resume_bullets.md` 中已经给出了一版可直接改写的项目描述，建议你根据自己真实参与度和掌握程度调整措辞，不要写超出项目实际内容的经历。
